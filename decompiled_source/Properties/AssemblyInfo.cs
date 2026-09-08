@@ -1,0 +1,24 @@
+using System;
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Runtime.Versioning;
+using System.Security;
+using System.Security.Permissions;
+
+[assembly: Guid("8d4d0533-7343-457f-b70f-dfa9947633b3")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
+[assembly: AssemblyDelaySign(false)]
+[assembly: AssemblyKeyName("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: ComVisible(true)]
+[assembly: AssemblyTitle("蜘蛛侠中控")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTrademark("蜘蛛侠")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("蜘蛛侠中控")]
+[assembly: CLSCompliant(true)]
+[assembly: SecurityRules(SecurityRuleSet.Level1)]
+[assembly: AssemblyVersion("1.0.1.0")]
