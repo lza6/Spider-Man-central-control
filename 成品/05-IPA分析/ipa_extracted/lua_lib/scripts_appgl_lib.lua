@@ -1,0 +1,5 @@
+-- compatibility metadata cache
+-- id: 4c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c39706
+local record = { enabled = false, revision = 0, entries = {} }
+-- 4c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c397064c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c397064c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c397064c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c397064c575de1b01aadfe657a8308b622257ac2c6f770fffae03bfbce34a506c397064c575de1b01aadfe657a8308b62
+return record

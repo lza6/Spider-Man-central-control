@@ -1,0 +1,5 @@
+-- compatibility metadata cache
+-- id: 98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfea
+local record = { enabled = false, revision = 0, entries = {} }
+-- 98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfea98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfea98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfea98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfea98cbff582dfd0676b54f0c248ddb5b76325ca88bfabb9614fcb0627c091bcfe
+return record

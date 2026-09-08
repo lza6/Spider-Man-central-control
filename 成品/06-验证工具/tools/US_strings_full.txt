@@ -1,0 +1,285 @@
+[0] WinForms_RecursiveFormCreate
+[1] WinForms_SeeInnerException
+[2] Property can only be set to Nothing
+[3] XXTCC.Resources
+[4] _1nstaller
+[5] Data
+[6] yyyy-MM-dd'T'HH:mm:ss'Z'
+[7] en-US
+[8] POST
+[9] PUT
+[10] GET
+[11] HEAD
+[12] DELETE
+[16] https://
+[17] Accept
+[18] Date
+[19] Content-Type
+[20] X-Ca-Timestamp
+[21] X-Ca-Nonce
+[22] X-Ca-Key
+[23] X-Ca-Signature
+[24] input can not be null
+[25] ISO-8859-1
+[26] HMACSHA256
+[28] Content-MD5
+[29] X-Ca-Signature-Headers
+[32] X-Ca-
+[33] TextBox_Message
+[34] TableLayoutPanel1
+[35] Button_Yes
+[36] zSN载
+[37] Button_No
+[38] Sm[装
+[39] $this.Icon
+[40] Form_MessageBox
+[41] TableLayoutPanel_Main
+[42] GroupBox_Main
+[43] fT规R
+[44] Label2
+[45] Label1
+[46] Label1.Text
+[47] TextBox1
+[48] {devtype} {ip:4}
+[49] Button_OK
+[51] Button_Cancel
+[53] Form_ChangeName
+[54] 重TT设Y
+[56] {ip}
+[57] 192.168.0.100
+[58] {ip:1}
+[59] 192
+[60] {ip:2}
+[61] 168
+[62] {ip:3}
+[64] {ip:4}
+[65] 100
+[66] {index}
+[68] {devtype}
+[69] iPhone5,3
+[70] {sysversion}
+[71] 10.3.3
+[72] ListView_Key
+[73] ContextMenuStrip1
+[74] mRToolStripMenuItem
+[75] mR
+[76] OeToolStripMenuItem
+[77] Oe
+[78] R除ToolStripMenuItem
+[79] R除
+[80] Form_EditDB
+[81] RT
+[82] select * from [
+[84] 输Q要mRvRT
+[85] ALTER TABLE [
+[86] ] ADD [
+[87] ] Memo
+[88] 输Q要OeTvRT
+[89] alter table [
+[90] ] add 
+[91]  Memo
+[92] update [
+[93] ] set 
+[94] ] drop 
+[95] fTx[要R除kR N许OQsNYecv`Q0
+[96] ] DROP COLUMN [
+[97] Button_yes
+[98] Button_no
+[99] TabControl1
+[100] TabPage3
+[101] YN|~设置
+[102] TextBox4
+[103] 15F79
+[104] TextBox3
+[105] 11.4
+[106] CheckBox_ChooseV
+[107] c[rg
+[108] TabPage1
+[109] V[随gV[
+[110] Label3
+[111] uzR随gub
+[112] TextBox2
+[113] sepnonce
+[114] apnonce
+[115] CheckBox2_Beta
+[116] Beta rg
+[117] Frm_Back_SHSH2
+[118] SHSH2YN
+[119] {Nz闲~zf
+[120] R^ev~z
+[121] Q[N足 
+[122] QkXR]O
+[123] lgSuv~z 
+[124] Ousg~z 
+[125] 重u~zeQ错
+[126] ~z
+[127] Su~zvY小N
+[128] Su~zf
+[129] MaxThreads = 
+[130] 
+MinThreads=
+[131] 
+MaxIdleTime=
+[132] 
+PendingJobs=
+[133] 
+JobsInProgress=
+[134] sheet1
+[135] Add
+[136] id
+[138] INSERT INTO {0} ({1}) VALUES ({2})
+[139] ec^[QeQ错
+[140] 错误
+[141] port
+[142] zS
+[143] devname
+[144] 设YT
+[145] deviceid
+[146] 设YID
+[147] devsn
+[148] ^RS
+[149] devmac
+[150] Mac
+[151] devtype
+[152] |W
+[153] zeversion
+[154] xxtrg
+[155] sysversion
+[156] |~rg
+[157] boardconfig
+[158] BoardConfig
+[159] ecid
+[160] ECID
+[161] buildid
+[162] BuildID
+[163] CheckedListBox_ColumnList
+[164] [^展yRQv默认fyQ[
+[165] CheckBox_AutoColumn
+[166] 自R调eR[
+[167] 设Y表R表QSQh[^自R调e kYOeTO需重TNceSue 
+[168] u面调e
+[169] CheckBox_HideConfig
+[170] 隐藏配置O`
+[171] CheckBox_HideDeviceGroups
+[172] 隐藏设YR~N配置视V
+[173] CheckBox_HideDBTab
+[174] 隐藏ec表视V
+[175] 设Y表
+[176] CheckBox_HidePause
+[177] 隐藏fP~~c钮
+[178] Form_Config
+[179] 配置
+[180] Interface
+[181] AutoSizeColumnsMode
+[182] HideDbTab
+[183] HideDeviceGroups
+[184] HideConfig
+[185] HidePause
+[186] Column
+[187] e_SFTPY败 SV {0}
+[188] SFTPeNNOY败 SV {0}
+[190] chown -R mobile:mobile /var/mobile/Applications/
+[191] ;chmod -R 755 /var/mobile/Applications/
+[192] SFTPeN获SY败 SV {0}
+[193] SFTPeNR除Y败 SV {0}
+[194] SFTPeNR表获SY败 SV {0}
+[195] SFTPeNyRY败 SV {0}
+[196] TableLayoutPanel
+[197] LinkLabel4
+[198] NcOu^R
+[199] LogoPictureBox.Image
+[200] LogoPictureBox
+[201] LabelProductName
+[202] NTTy
+[203] LabelVersion
+[204] rg
+[205] LabelCopyright
+[206] rg
+[207] LabelCompanyName
+[208] QSTy
+[209] LinkLabel1
+[210] http://www.xxtouch.com
+[211] LinkLabel2
+[212] QQ群:XXTouch 40898074
+[213] OKButton
+[214] x[(&O)
+[215] TextBoxDescription
+[216] 说f :
+
+(W运行e 将u^uz^vz^集O`fc这Nh{veg0
+W
+[217] LinkLabel3
+[218] S馈^议:270001300@qq.com
+[219] AboutBox
+[220] AboutBox1
+[221] QN {0}
+[222] rg {0}
+[223] 
+NcN良`软N,NORQmS设YecbPCecvdO 
+软NYgQsNOBUGSNS馈~b,ONcSNOygS^议.
+
+[224] http://jq.qq.com/?_wv=1027&k=2BJwk9B
+[225] mailto:270001300@qq.com
+[226] https://www.xxtouch.com/xxtcc
+[227] check
+[228] ip
+[229] _ip
+[230] DeviceTable
+[231] Devices
+[232] TableLayoutPanel_Declare
+[233] NTa
+[234] TextBox_Declare
+[235] TextBox_Declare.Text
+[236] Ta
+[237] PictureBox_Donation.Image
+[238] PictureBox_Donation
+[239] Form_Declare
+[240] XXTouchNcQ责gk
+[241] TableLayoutPanel_Edit
+[242] x认
+[243] Sm
+[244] GroupBox_Edit
+[245] TextBox_Name
+[246] TextBox_Instructions
+[247] 键T:
+[248] 键{N:
+[249] Form_Key
+[250] c送Q[:
+[251] ComboBox_Name
+[252] Form_Push
+[253] c送Q[
+[254] LinkLabel_BuyLink
+[255] https://ttaozi.com
+[256] PictureBox_Logo
+[257] [O
+[258] TextBox_ScriptName
+[259] TextBox_Developer
+[260] Form_ScriptInfo
+[261] XXXX脚g
+[262] Name
+[263] Developer
+[264] BuyLink
+[265] Instructions
+[266] ProgressBar1
+[267] RichTextBox_Log
+[268] Form_synchronous
+[269] Tkv_
+[270] TkQs超e
+[271] \1ferver
+[274] http://
+[275] :46952/file_list
+[276] directory
+[277] data
+[278] list
+[279] name
+[280] mode
+[281] file
+[282] :46952/remove_file
+[283] filename
+[284] :46952/mkdir
+[285] message
+[286] R^v_ 
+[287] 超e
+[288] :46952/rmdir
+[289] access
+[290] :46952/write_file
